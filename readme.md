@@ -1,7 +1,7 @@
 If you open Document outline of your Google document, you cannot export it anywhere else in the exact same form as in your Google document.<br>
 While downloading the document as docx, all the headings in the document will be shown in the navigation menu, but with all the ones you've deliberately deleted in your GDoc, now causing a mess in your document outline.<br>
 <br>
-This script embeeds similarly looking document outline like in the GDoc, into HTML, from a ready list of entries I'll guide to prepare.
+This script embeeds similarly looking document outline like in the GDoc, into HTML downloaded from GDoc, from a ready list of entries I'll guide you to prepare.
 <br><br>
 The trick is, I didn't find an automated way to export all the entries in the document outline - you'll need to create the list yourself.<br>
 I did that by opening the GDoc, saving the page as complete html site in (...)>Save and share>Save the page as.<br>
