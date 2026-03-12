@@ -10,4 +10,4 @@ The trick is, I didn't find an automated way to export all the entries in the do
 The script will ask to paste all the entries to embeed for the navigation bar - paste them, then press enter, and input "end" at the end, and press enter - it will write the outline entries into a json file.<br>
 Now ignore the output html file, because it will redirect into many incorrect places in the document.<br> 
 9. Now the second script called strict_matching_toc_(from_json).py will read all the entries from json you created, and embeed the GDoc-looking document outline into your HTML file (the one downloaded normally with GDoc option - file_a.html). You can edit the json to ensure the script worked correctly, and all the entries are correct.<br>
-Be aware that navigation bar in the final file on the left will load around 15 seconds - the detetion of the headings in the second script is more aggresive.
+Be aware that navigation bar in the final file on the left will load around 15 seconds - the detection of the headings in the second script is more aggresive.
