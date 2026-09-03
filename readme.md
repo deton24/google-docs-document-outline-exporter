@@ -1,3 +1,6 @@
+Here is better tool:
+https://github.com/bascurtiz/msst-bible
+_________
 If you open Document outline of your Google document, you cannot export it anywhere else in the exact same form as in your Google document.<br>
 While downloading the document as docx, all the headings in the document will be shown in the navigation menu, but with all the ones you've deliberately deleted in your GDoc, now causing a mess in your document outline.<br>
 <br>
