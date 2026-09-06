@@ -1,4 +1,4 @@
-Here is better tool:
+Here is better tool (it even has auto-sync feature with the GDoc URL):
 https://github.com/bascurtiz/msst-bible
 _________
 If you open Document outline of your Google document, you cannot export it anywhere else in the exact same form as in your Google document.<br>
